@@ -1,0 +1,6 @@
+httpx>=0.26
+# ChromaDB connector (optional — install only if scanning Chroma stores):
+chromadb>=0.4.22
+sentence-transformers>=2.5
+# transformers pinned to avoid known nn.NameError in 4.50+
+transformers>=4.45,<4.50

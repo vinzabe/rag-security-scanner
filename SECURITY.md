@@ -77,3 +77,7 @@ We assume:
 - All Python deps are pinned via `requirements.txt`
 - ChromaDB and sentence-transformers are large; consider a slim
   container image that excludes optional extras
+
+## Contact
+
+Responsible disclosure: **g@abejar.net**
